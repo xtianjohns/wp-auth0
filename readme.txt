@@ -1,4 +1,4 @@
-=== Social Login with Auth0 ===
+=== Multi-factor Authentication with Auth0 ===
 Tags: login, oauth, authentication, facebook, google, twitter, baidu, renren, linkedin, github, paypal, yahoo, amazon, vkontakte, salesforce, box, dwolla, yammer, social
 Tested up to: 4.4
 Requires at least: 3.8
@@ -7,7 +7,7 @@ License URI: https://github.com/auth0/wp-auth0/blob/master/LICENSE.md
 Stable tag: trunk
 Contributors: glena, rrauch
 
-Login with any social provider you can think of with this plugin and the Auth0 dashboard.
+MFA is easy with Auth0. Connect WP to social and enterprise login and add MFA free with our dashboard.
 
 == Description ==
 
